@@ -6,7 +6,7 @@ New Repository
 El Banco Mundial quedó muy impresionado con su entrega en la asignación anterior y
 tienen un nuevo proyecto para usted.
 
-## [Debe generar un diagrama de dispersión de puntos (scatter-plot) que muestre las
+##[Debe generar un diagrama de dispersión de puntos (scatter-plot) que muestre las
 estadísticas de esperanza de vida ( Life expectancy - eje y) y tasa de fertilidad
 (Fertility Rate -eje x) por país (Country).]
 
