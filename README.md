@@ -14,3 +14,6 @@ New Repository
 ### Algunos datos se han proporcionado en un archivo CVS, algunos en vectores R. El archivo CVS contiene datos combinados de ambos años. Toda manipulación de datos debe realizarse en R (No en Excel) porque este proyecto puede ser auditado en una etapa posterior.
 
 ### También se le ha pedido que proporcione información sobre cómo se comparan los dos períodos. (Hint: Basicamente la explicación de sus observaciones)
+
+
+![Prueba](s.jpg)
