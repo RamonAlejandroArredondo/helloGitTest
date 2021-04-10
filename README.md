@@ -16,4 +16,3 @@ New Repository
 ### También se le ha pedido que proporcione información sobre cómo se comparan los dos períodos. (Hint: Basicamente la explicación de sus observaciones)
 
 
-![Prueba](s.jpg)
